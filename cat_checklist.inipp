@@ -1,0 +1,9 @@
+[Main]
+
+[Info]
+name="CatTypes"
+
+[Download]
+dependencies=[]
+files=["cattypes.hpp"]
+
